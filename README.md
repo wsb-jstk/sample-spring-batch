@@ -1,2 +1,3 @@
-# sample-spring-batch
-Demo for Spring Batch
+# sample-spring-integration
+
+Demo for Spring Integration
