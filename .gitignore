@@ -30,3 +30,4 @@ target/
 
 # Log file
 *.log
+people-import.*.db
